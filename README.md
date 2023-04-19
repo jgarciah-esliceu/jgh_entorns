@@ -2,4 +2,4 @@
 ## Prova per comprover que funciona el respositori
 ## FUNCIONA!!!!
 
-Canvi afegit a GitHub
+Canvi afegit a GitHub, crearem un conflicte
