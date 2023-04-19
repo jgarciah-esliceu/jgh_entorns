@@ -1,4 +1,4 @@
-# jgh_entorns
+# jgh_entorns - versio en local
 ## Prova per comprover que funciona el respositori
 ## FUNCIONA!!!!
 
