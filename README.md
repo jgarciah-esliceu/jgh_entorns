@@ -9,3 +9,5 @@ Escrivim a la darrera linea
 
 
 Canvi fet al branch: primera_branca
+
+Canvi fet a main en remot
