@@ -6,3 +6,5 @@
 Canvi afegit a GitHub, hem solucionat el conflicte
 
 Escrivim a la darrera linea
+
+Conflicte
